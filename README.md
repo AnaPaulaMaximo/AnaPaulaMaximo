@@ -1,4 +1,4 @@
-<h2 align="left">Oii, meu nome é Ana Paula, seja bom vindo ao meu perfil!!!</h2>
+<h2 align="left">Oii, meu nome é Ana Paula, seja bem vindo ao meu perfil!!!</h2>
 
 ###
 
